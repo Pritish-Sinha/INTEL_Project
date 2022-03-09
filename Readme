@@ -1,4 +1,4 @@
-Deepfake Detection
+# Deepfake Detection
 
 Dataset: https://www.kaggle.com/xhlulu/140k-real-and-fake-faces?select=valid.csv
 
@@ -8,10 +8,10 @@ Project Implementation:
 • Trained AI Model to detect deepfakes
 • Chrome Extension with API's to detect on usage deepfakes while browsing.
 
-\### ToDO
+### ToDO
 
--[] Project Report :
--[] Project Presentation:
--[] Project Research:
+* [] Project Report :
+* [] Project Presentation:
+* [] Project Research:
 
 Project By: Pritish, Khushi, Raushan
